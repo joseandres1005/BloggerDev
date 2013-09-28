@@ -1,0 +1,16 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: blogger
+    database_user: root
+    database_password: 51573m45
+    mailer_transport: "gmail"
+    mailer_encryption: "ssl"
+    mailer_auth_mode: "login"
+    mailer_host: "smtp.gmail.com"
+    mailer_user: "joseandres1005@gmail.com"
+    mailer_password: "2968806"
+    locale: en
+    secret: ThisTokenIsNotSoSecretChangeIt
